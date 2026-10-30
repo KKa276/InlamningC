@@ -1,0 +1,14 @@
+/Users/kaltuunnuur/Projects/InlämningC/obj/Debug/net10.0/BicycleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaltuunnuur/Projects/InlämningC/obj/Debug/net10.0/BicycleApp.AssemblyInfoInputs.cache
+/Users/kaltuunnuur/Projects/InlämningC/obj/Debug/net10.0/BicycleApp.AssemblyInfo.cs
+/Users/kaltuunnuur/Projects/InlämningC/obj/Debug/net10.0/BicycleApp.csproj.CoreCompileInputs.cache
+/Users/kaltuunnuur/Projects/InlämningC/bin/Debug/net10.0/BicycleApp
+/Users/kaltuunnuur/Projects/InlämningC/bin/Debug/net10.0/BicycleApp.deps.json
+/Users/kaltuunnuur/Projects/InlämningC/bin/Debug/net10.0/BicycleApp.runtimeconfig.json
+/Users/kaltuunnuur/Projects/InlämningC/bin/Debug/net10.0/BicycleApp.dll
+/Users/kaltuunnuur/Projects/InlämningC/bin/Debug/net10.0/BicycleApp.pdb
+/Users/kaltuunnuur/Projects/InlämningC/obj/Debug/net10.0/BicycleApp.dll
+/Users/kaltuunnuur/Projects/InlämningC/obj/Debug/net10.0/refint/BicycleApp.dll
+/Users/kaltuunnuur/Projects/InlämningC/obj/Debug/net10.0/BicycleApp.pdb
+/Users/kaltuunnuur/Projects/InlämningC/obj/Debug/net10.0/BicycleApp.genruntimeconfig.cache
+/Users/kaltuunnuur/Projects/InlämningC/obj/Debug/net10.0/ref/BicycleApp.dll
